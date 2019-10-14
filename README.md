@@ -1,4 +1,4 @@
-# Integración de Tecnologías - Grupo 7
+# Whiteboard
 
 ## Componentes del grupo:
 * Victor Martinelli Rodríguez
