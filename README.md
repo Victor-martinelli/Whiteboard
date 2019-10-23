@@ -19,15 +19,9 @@ Designed, implemented and deployed a REST Java Learning Management System that u
 * GitHub
 * Struts2
 
-### Documentación
+### Documentation
 
-La documentación se encuentra en el directorio "Documentación". Allí pueden consultarse las versiones finales de la presentación y el Informe de la Aplicación, junto con los documentos originales organizados por secciones.
+The project's documentation can be found inside the "[Documentation](https://github.com/Victor-martinelli/Whiteboard/tree/master/Documentation)" folder.
 
-### Código fuente
-El código fuente se encuentra en el directorio "Whiteboard" y "Whiteboard_REST". Dentro de él, hay todo lo necesario para desplegar la aplicación, junto con un directorio "database" con la base de datos en formato SQL. Los archivos del servidor están en la carpeta web del proyecto WhiteBoard.
-
-
-### Tecnologías no vistas
-
-* Git+GitHub
-* WW3CSS
+### Source Code
+The project's source code can be found inside the "[Whiteboard](https://github.com/Victor-martinelli/Whiteboard/tree/master/WhiteBoard)" and "[Whiteboard_REST](https://github.com/Victor-martinelli/Whiteboard/tree/master/Whiteboard_REST)" folders. Everything that is needed to deploy the application is inside the folders. It's also important to note that the server files are inside the "[web/files](https://github.com/Victor-martinelli/Whiteboard/tree/master/WhiteBoard/web/files)"
