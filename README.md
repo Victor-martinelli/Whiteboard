@@ -1,18 +1,23 @@
 # Whiteboard
 
-## Componentes del grupo:
-* Victor Martinelli Rodríguez
-* Manuel Ridao Pineda
-* Pablo Oliva Navea
+<p align="center">
+  <img width="200em" src="https://github.com/Victor-martinelli/Whiteboard/blob/master/WhiteBoard/web/files/images/logo2.png">
+</p>
 
-## Instrucciones
-* Validaciones mediante XML
-* Mensajes de error en .properties
-* Webservice con WSDL
 
-## Temática del trabajo:
-* Sistema Educativo Online
-## Entrega
+## Project Description
+Designed, implemented and deployed a REST Java Learning Management System that utilizes a MySQL database and follows an MVC pattern. The entire project was organized on a GitHub repository with different branches for the team members and the entire View logic was written in Struts2. Whiteboard allows students to view and download slides from different classes, check their grades and turn in projects. Teachers can also upload new slides, check which students have registered to their class, create a new project, download the projects that have been turned in and grade the uploaded projects. Administrators can also perform CRUD operations on classes, teachers, classrooms and students.
+
+## Technologies Used
+* HTML
+* CSS
+* JSP
+* Java
+* JQuery
+* MySQL
+* REST
+* GitHub
+* Struts2
 
 ### Documentación
 
